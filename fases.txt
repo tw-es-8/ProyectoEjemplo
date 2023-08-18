@@ -1,0 +1,16 @@
+
+1. Análisis
+1.1 Analizar requisitos
+1.2 Identificar requisitos funcionales y no funcionales
+1.3 Elaborar los casos de uso
+1.4 Analizar la estructura del proyecto
+2. Diseño
+2.1 Diseñar diagramas de secuencia
+2.2 Diseñar los diagramas de clase
+2.3 Diseñar la base de datos
+2.4 Diseñar el mockup
+3. Construcción
+3.1 Construir el sistema
+4. Transición
+4.1 Probar el sistema
+4.2 Publicar el sistema
